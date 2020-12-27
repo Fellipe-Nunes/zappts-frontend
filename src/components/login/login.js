@@ -35,7 +35,7 @@ const Login = (props) => {
                 history.push('/')
             } catch (error) {
                 setLoading(false)
-                const erroCurrent = error.response.errors
+                //const erroCurrent = error.response.data.errors
                 if (erroCurrent) {
                     const allItems = erroCurrent.map(item => item.msg)
                     const allItemsToString = allItems.join('-')
