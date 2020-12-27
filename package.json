@@ -1,5 +1,6 @@
 {
   "name": "zappts-frontend",
+  "author": "Fellipe Nunes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
