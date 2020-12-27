@@ -12,8 +12,7 @@
   label {
       text-align: left;
       font-size: 1em;
-      color: #000000;
-  
+      color: #000000;  
   }
   
   .radios {
@@ -26,13 +25,12 @@
       justify-content: space-evenly;
   }
   
-  
   .etiqueta {
       text-align: left;
       font-size: 1em;
       font-weight: bold;
       }
-  
+    
   .campo {
       width: 100%;
       padding-top: 10px;
@@ -126,7 +124,7 @@ input:-webkit-autofill:focus {
       background-color: #fb6760;
   }
   
-  .listaPacientes {
+  .listaCarta {
       min-height: 600px;
   }
 
@@ -151,8 +149,7 @@ input:-webkit-autofill:focus {
       font-size: 1em;
       border: none;
       background-color: #cccccc;
-      cursor: not-allowed;
-  
+      cursor: not-allowed;  
   }
   
   :disabled:hover {
@@ -161,8 +158,7 @@ input:-webkit-autofill:focus {
   
   table {
       width: 100%;
-      border-collapse: collapse;
-      
+      border-collapse: collapse;    
   }
   
   th {

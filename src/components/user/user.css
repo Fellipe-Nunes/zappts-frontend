@@ -2,7 +2,7 @@
 
 
 
-.cadastroFuncionario {
+.cadastroUsuario {
     width: 320px;
     margin: auto;
 }
@@ -134,7 +134,7 @@ input:-webkit-autofill:focus {
       background-color: #fb6760;
   }
   
-  .listaPacientes {
+  .listaUsuario {
       min-height: 600px;
   }
 
